@@ -40,7 +40,7 @@ PyJWT
 PyPDF2
 openpyxl
 pyotp
-pyqrcode
+pyqrcode==1.2.1
 pypng
 premailer
 croniter
