@@ -30,7 +30,7 @@ rq
 schedule
 cryptography
 pyopenssl
-ndg-httpsclient
+ndg-httpsclient==0.5.0
 pyasn1
 zxcvbn-python
 unittest-xml-reporting
