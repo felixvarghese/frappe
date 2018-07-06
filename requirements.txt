@@ -32,7 +32,7 @@ cryptography
 pyopenssl
 ndg-httpsclient
 pyasn1
-zxcvbn-python
+zxcvbn-python==4.4.24
 unittest-xml-reporting
 oauthlib
 pdfkit
