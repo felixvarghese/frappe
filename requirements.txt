@@ -27,7 +27,7 @@ bleach-whitelist
 Pillow
 beautifulsoup4
 rq
-schedule
+schedule==0.5.0
 cryptography
 pyopenssl
 ndg-httpsclient
