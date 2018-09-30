@@ -45,7 +45,7 @@ pypng
 premailer
 croniter
 googlemaps
-mycli
+mycli==1.18.0
 braintree
 future
 passlib
