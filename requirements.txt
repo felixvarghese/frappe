@@ -46,7 +46,7 @@ premailer
 croniter
 googlemaps
 mycli
-braintree
+braintree==3.49.0
 future
 passlib
 google-api-python-client
