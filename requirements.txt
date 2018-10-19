@@ -38,7 +38,7 @@ oauthlib
 pdfkit
 PyJWT
 PyPDF2
-openpyxl
+openpyxl==2.5.9
 pyotp
 pyqrcode
 pypng
