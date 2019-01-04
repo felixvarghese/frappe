@@ -41,7 +41,7 @@ PyPDF2
 openpyxl
 pyotp
 pyqrcode
-pypng
+pypng==0.0.19
 premailer
 croniter
 googlemaps
