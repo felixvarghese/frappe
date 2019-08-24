@@ -42,7 +42,7 @@ openpyxl
 pyotp
 pyqrcode
 pypng
-premailer
+premailer==3.6.1
 croniter
 googlemaps
 mycli
