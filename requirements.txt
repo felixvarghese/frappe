@@ -10,7 +10,7 @@ python-dateutil
 pytz
 six
 werkzeug
-semantic_version
+semantic_version==2.7.1
 rauth>=0.6.2
 requests
 redis
