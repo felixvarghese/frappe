@@ -33,7 +33,7 @@ pyopenssl
 ndg-httpsclient
 pyasn1
 zxcvbn-python
-unittest-xml-reporting
+unittest-xml-reporting==3.0.3
 oauthlib
 pdfkit
 PyJWT
