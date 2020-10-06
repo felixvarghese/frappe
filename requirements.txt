@@ -48,7 +48,7 @@ googlemaps
 mycli
 braintree
 future
-passlib
+passlib==1.7.3
 google-api-python-client
 google-auth
 google-auth-httplib2
