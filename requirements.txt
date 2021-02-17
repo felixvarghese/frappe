@@ -28,7 +28,7 @@ Pillow
 beautifulsoup4
 rq
 schedule
-cryptography
+cryptography==3.4.6
 pyopenssl
 ndg-httpsclient
 pyasn1
