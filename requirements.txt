@@ -8,7 +8,7 @@ PyMySQL
 maxminddb-geolite2
 python-dateutil
 pytz
-six
+six==1.16.0
 werkzeug
 semantic_version
 rauth>=0.6.2
