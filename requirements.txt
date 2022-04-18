@@ -37,7 +37,7 @@ unittest-xml-reporting
 oauthlib
 pdfkit
 PyJWT
-PyPDF2
+PyPDF2==1.27.6
 openpyxl
 pyotp
 pyqrcode
