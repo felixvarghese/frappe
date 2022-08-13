@@ -7,7 +7,7 @@ markdown2
 PyMySQL
 maxminddb-geolite2
 python-dateutil
-pytz
+pytz==2022.2.1
 six
 werkzeug
 semantic_version
