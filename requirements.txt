@@ -29,7 +29,7 @@ beautifulsoup4
 rq
 schedule
 cryptography
-pyopenssl
+pyopenssl==22.1.0
 ndg-httpsclient
 pyasn1
 zxcvbn-python
