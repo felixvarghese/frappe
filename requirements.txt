@@ -39,7 +39,7 @@ pdfkit
 PyJWT
 PyPDF2
 openpyxl
-pyotp
+pyotp==2.8.0
 pyqrcode
 pypng
 premailer
