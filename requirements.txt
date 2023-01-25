@@ -44,7 +44,7 @@ pyqrcode
 pypng
 premailer
 croniter
-googlemaps
+googlemaps==4.9.0
 mycli
 braintree
 future
