@@ -19,7 +19,7 @@ babel
 ipython
 html2text==2016.9.19
 email_reply_parser
-click
+click==8.1.6
 num2words==0.5.5
 watchdog==0.8.0
 bleach
