@@ -1,7 +1,7 @@
 boto3
 chardet
 dropbox==7.3.1
-gunicorn
+gunicorn==21.1.0
 jinja2
 markdown2
 PyMySQL
