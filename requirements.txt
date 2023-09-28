@@ -50,7 +50,7 @@ braintree
 future
 passlib
 google-api-python-client
-google-auth
+google-auth==2.23.2
 google-auth-httplib2
 google-auth-oauthlib
 faker
