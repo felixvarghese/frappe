@@ -20,7 +20,7 @@ ipython
 html2text==2016.9.19
 email_reply_parser
 click
-num2words==0.5.5
+num2words==0.5.13
 watchdog==0.8.0
 bleach
 bleach-whitelist
