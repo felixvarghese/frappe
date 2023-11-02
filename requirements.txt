@@ -14,7 +14,7 @@ semantic_version
 rauth>=0.6.2
 requests
 redis
-selenium
+selenium==4.15.1
 babel
 ipython
 html2text==2016.9.19
