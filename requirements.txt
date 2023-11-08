@@ -1,4 +1,4 @@
-boto3
+boto3==1.20.32
 chardet
 dropbox==7.3.1
 gunicorn
