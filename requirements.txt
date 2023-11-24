@@ -16,7 +16,7 @@ requests
 redis
 selenium
 babel
-ipython
+ipython==8.18.0
 html2text==2016.9.19
 email_reply_parser
 click
