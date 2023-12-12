@@ -51,7 +51,7 @@ future
 passlib
 google-api-python-client
 google-auth
-google-auth-httplib2
+google-auth-httplib2==0.2.0
 google-auth-oauthlib
 faker
 stripe
