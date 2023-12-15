@@ -54,4 +54,4 @@ google-auth
 google-auth-httplib2
 google-auth-oauthlib
 faker
-stripe
+stripe==7.9.0
