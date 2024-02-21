@@ -47,7 +47,7 @@ croniter
 googlemaps
 mycli
 braintree
-future
+future==1.0.0
 passlib
 google-api-python-client
 google-auth
