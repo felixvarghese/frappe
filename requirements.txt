@@ -6,7 +6,7 @@ jinja2
 markdown2
 PyMySQL
 maxminddb-geolite2
-python-dateutil
+python-dateutil==2.9.0
 pytz
 six
 werkzeug
