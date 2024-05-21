@@ -4,7 +4,7 @@ dropbox==7.3.1
 gunicorn
 jinja2
 markdown2
-PyMySQL
+PyMySQL==1.1.1
 maxminddb-geolite2
 python-dateutil
 pytz
