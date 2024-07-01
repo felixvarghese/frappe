@@ -24,7 +24,7 @@ num2words==0.5.5
 watchdog==0.8.0
 bleach
 bleach-whitelist
-Pillow
+Pillow==10.4.0
 beautifulsoup4
 rq
 schedule
