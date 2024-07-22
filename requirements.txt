@@ -34,7 +34,7 @@ ndg-httpsclient
 pyasn1
 zxcvbn-python
 unittest-xml-reporting
-oauthlib
+oauthlib==3.1.1
 pdfkit
 PyJWT
 PyPDF2
