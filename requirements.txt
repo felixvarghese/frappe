@@ -13,7 +13,7 @@ werkzeug
 semantic_version
 rauth>=0.6.2
 requests
-redis
+redis==4.0.2
 selenium
 babel
 ipython
