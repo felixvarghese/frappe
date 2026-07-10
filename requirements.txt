@@ -43,7 +43,7 @@ pyotp
 pyqrcode
 pypng
 premailer
-croniter
+croniter==6.2.4
 googlemaps
 mycli
 braintree
